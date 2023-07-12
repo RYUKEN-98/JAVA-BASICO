@@ -45,4 +45,4 @@ const op_2 = 20;
 const op_3 = 60;
 const division = op_1 / op_2 / op_3;
 
-console.log(`La división es: ${division}`);//concatenacion con block tic
+console.log(`La división es: ${division}`);//concatenacion con block ticnnnn
